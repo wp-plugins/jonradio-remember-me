@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Remember Me is default on WordPress Login Form, without JavaScript.
+Remember Me becomes the default on the WordPress Login Form, without using any JavaScript.
 
 == Description ==
 
