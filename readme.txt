@@ -3,7 +3,7 @@ Contributors: jonradio
 Donate link: http://jonradio.com/plugins
 Tags: remember me, remember, login, login form, cookies, cookie, password, auth, authentication
 Requires at least: 3.6
-Tested up to: 3.8
+Tested up to: 3.9
 Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
