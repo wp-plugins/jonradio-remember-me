@@ -4,7 +4,7 @@ Donate link: http://jonradio.com/plugins
 Tags: remember me, remember, login, login form, cookies, cookie, password, auth, authentication
 Requires at least: 3.6
 Tested up to: 4.1
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -65,6 +65,9 @@ Of course, the most important security question to ask is: 	What level of risk d
 
 == Changelog ==
 
+= 2.1 =
+* Correct Login "bizarre behaviour" bug caused by not returning the WP Error object to Filter 'wp_login_errors'
+
 = 2.0 =
 * Add Settings to disable the plugin, set the Remember Me default, and remember User's Remember Me choice
 
@@ -72,6 +75,9 @@ Of course, the most important security question to ask is: 	What level of risk d
 * Prepare to WordPress Plugin Directory standards.
 
 == Upgrade Notice ==
+
+= 2.1 =
+Stops disruption of the Login process
 
 = 2.0 =
 Add Settings Page for more control

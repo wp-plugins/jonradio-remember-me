@@ -3,7 +3,7 @@
 Plugin Name: jonradio Remember Me
 Plugin URI: http://jonradio.com/plugins/jonradio-remember-me/
 Description: Set default to Remember Me on WordPress Login Form to avoid re-login after browser close. Without using JavaScript.
-Version: 2.0
+Version: 2.1
 Author: jonradio, adiant
 Author URI: http://jonradio.com/plugins
 License: GPLv2
@@ -134,6 +134,7 @@ if ( ! ( $stop_actions = $settings['disable'] ) ) {
 				} else {
 					unset( $_POST['rememberme'] );
 				}
+				return $errors;
 			}
 			/*	Everything necessary has already been done,
 				other than storing/updating the Cookie,
@@ -184,6 +185,7 @@ if ( !$stop_actions ) {
 		if ( empty( $_POST['rememberme'] ) ) {
 			$_POST['rememberme'] = 'remember';
 		}
+		return $errors;
 	}
 	
 	if ( 'all' === $settings['remember_me'] ) {
