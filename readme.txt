@@ -1,7 +1,7 @@
 === jonradio Remember Me ===
-Contributors: jonradio
+Contributors: dgewirtz, jonradio
 Donate link: http://jonradio.com/plugins
-Tags: adopt-me, remember me, remember, login, login form, cookies, cookie, password, auth, authentication
+Tags: remember me, remember, login, login form, cookies, cookie, password, auth, authentication
 Requires at least: 3.6
 Tested up to: 4.2
 Stable tag: 2.1
