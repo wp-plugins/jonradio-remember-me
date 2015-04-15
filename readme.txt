@@ -12,6 +12,8 @@ Control whether Remember Me is selected on the WordPress Login Form, without usi
 
 == Description ==
 
+*Formerly: "jonradio Remember Me"*
+
 Allows the Administrator and/or the User to control the placement of a check mark in the Remember Me checkbox on the standard WordPress login form.
 
 Without a check mark in the Remember Me checkbox, your users will have to login every time they close their browser.  With Remember Me selected, they won't have to login again for two weeks.
