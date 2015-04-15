@@ -1,4 +1,4 @@
-=== jonradio Remember Me ===
+=== Remember Me ===
 Contributors: dgewirtz
 Donate link: http://zatzlabs.com/lab-notes/
 Tags: remember me, remember, login, login form, cookies, cookie, password, auth, authentication
@@ -33,6 +33,11 @@ Deciding whether this plugin is for you:
 * With Remember Me checked, the user remains logged in even if the browser is closed, the user's computer is rebooted or the web site hosting server is rebooted;
 * Web sites that can only be viewed by registered users (e.g. - [jonradio Private Site plugin](http://wordpress.org/plugins/jonradio-private-site/ "jonradio Private Site")) are more likely to want Remember Me pre-selected for each user at login, as web site viewing will be more frequently repeated than WordPress Administration;
 * For public or shared computers, the WordPress behaviour of leaving the Remember Me checkbox empty is a slight Security improvement, but is easily defeated by a user selecting Remember Me during login, which still leaves subsequent users logged on.
+
+> <strong>Adoption Notice</strong><br>
+> This plugin was recently adopted by David Gewirtz and ongoing support and updates will continue. Feel free to visit [David's Lab Notes](http://zatzlabs.com/lab-notes/) for additional details and to sign up for emailed news updates.
+
+Special thanks to Jon 'jonradio' Pearkins for creating the plugin and making adoption possible.
 
 == Installation ==
 
