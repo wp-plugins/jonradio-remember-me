@@ -1,5 +1,5 @@
 === jonradio Remember Me ===
-Contributors: jonradio
+Contributors: dgewirtz
 Donate link: http://zatzlabs.com/plugins/
 Tags: remember me, remember, login, login form, cookies, cookie, password, auth, authentication
 Requires at least: 2.8
